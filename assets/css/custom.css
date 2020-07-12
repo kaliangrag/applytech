@@ -780,7 +780,7 @@ features
   margin: auto;
   position: relative;
   margin-bottom: 30px;
-  background: #8261ee;
+  background: linear-gradient(90deg, rgba(0,154,228,1) 0%, rgba(0,212,255,1) 100%, rgba(159,1,127,1) 100%);
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
